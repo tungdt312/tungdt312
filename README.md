@@ -70,7 +70,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/t%C3%B9ng-%C4%91inh-thanh-1aa817239/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="dinhthanhtung@gmail.com" target="blank">
+<a href="dinhthanhtung@gmail.com" target="gmail">
  <img src="https://skillicons.dev/icons?i=gmail" /></a> 
 
   
