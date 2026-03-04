@@ -10,7 +10,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Figma, NextJs, Kotlin**
+- 🔭 I’m currently working as a Front-End Engineer on **React, Figma, NextJs, Kotlin**
 
 - 🌱 I’m currently learning **3rd year at University of Information Technology - VNUHCM**
 
