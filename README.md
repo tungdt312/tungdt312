@@ -27,9 +27,9 @@
 <tr border="none">
 <td width="50%" align="center">
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tungdt312&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungdt312&layout=compact&theme=tokyonight" width="450"/>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tungdt312&theme=dark&hide_border=false" width="450" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tungdt312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="450"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungdt312&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="450"/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tungdt312&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="450" /> 
 </div>
 </td>
 </tr>
